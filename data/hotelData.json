@@ -1,0 +1,35 @@
+[
+    {
+        "id": 100,
+        "roomType": "Single Room",
+        "roomNumber": 101,
+        "availableBeds": 1,
+        "personCapacity": 1,
+        "pricePerNight": 100,
+        "availability": true,
+        "shortDescription": "Cozy single room with a comfortable bed for a relaxing stay.",
+        "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 101,
+        "roomType": "Couple Room",
+        "roomNumber": 201,
+        "availableBeds": 1,
+        "personCapacity": 2,
+        "pricePerNight": 150,
+        "availability": true,
+        "shortDescription": "Spacious double room perfect for a couple's getaway.",
+        "image": "https://images.unsplash.com/photo-1584132905271-512c958d674a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 102,
+        "roomType": "Family Room",
+        "roomNumber": 301,
+        "availableBeds": 2,
+        "personCapacity": 4,
+        "pricePerNight": 200,
+        "availability": true,
+        "shortDescription": "Family-friendly room with ample space for a comfortable stay for four.",
+        "image": "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
